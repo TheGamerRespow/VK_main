@@ -10,7 +10,8 @@ Make functions as events, to be called from server.
 That the community will add dozen of functions, to make it the most complete as possible.
 
 
-# Functions list I didn't make all the functions, it's a community project and I don't know the authors
+# Functions list 
+I didn't make all the functions, it's a community project and I don't know the authors
 
     drawNotification(text)
     displayHelpText(text)
